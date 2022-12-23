@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 
 This is a simple game of tic-tac-toe in which a player can play against an artificial intelligence (AI) opponent. The game is played on a 3x3 board, with the player taking turns to place their symbol ('X' or 'O') on an empty cell. The game ends when a player gets three in a row, or when there are no more empty cells on the board.
-The game consists of several functions:
 
 ## How to Play
 
